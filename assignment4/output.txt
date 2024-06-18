@@ -1,0 +1,63 @@
+[34maddPage stack_datastructure: [0m
+[31mFile Not Found[0m
+
+[34mqueryFindPagesWhichContainWord delhi: [0m
+[31mNo webpage contains word [33mdelhi[0m
+
+[34mqueryFindPagesWhichContainWord stack: [0m
+[31mNo webpage contains word [33mstack[0m
+
+[34mqueryFindPagesWhichContainWord wikipedia: [0m
+[31mNo webpage contains word [33mwikipedia[0m
+
+[34mqueryFindPositionsOfWordInAPage stack stack_datastructure_wiki: [0m
+[31mWebpage [33mstack_datastructure_wiki[31m has not been added[0m
+
+[34mqueryFindPagesWhichContainWord allain: [0m
+[31mNo webpage contains word [33mallain[0m
+
+[34maddPage stack_cprogramming: [0m
+[32mPage has been read successfully[0m
+
+[34maddPage stack_cprogramming: [0m
+[31mWebpage [33mstack_cprogramming[31m has already been added[0m
+
+[34mqueryFindPagesWhichContainWord allain: [0m
+[35mstack_cprogramming [0m
+
+[34mqueryFindPagesWhichContainWord C: [0m
+[35mstack_cprogramming [0m
+
+[34mqueryFindPagesWhichContainWord C++: [0m
+[35mstack_cprogramming [0m
+
+[34maddPage stack_oracle: [0m
+[32mPage has been read successfully[0m
+
+[34mqueryFindPagesWhichContainWord jdk: [0m
+[35mstack_oracle [0m
+
+[34maddPage stackoverflow: [0m
+[32mPage has been read successfully[0m
+
+[34maddPage stack_datastructure_wiki: [0m
+[32mPage has been read successfully[0m
+
+[34mqueryFindPagesWhichContainWord function: [0m
+[35mstack_cprogramming, [0m[35mstackoverflow, [0m[35mstack_datastructure_wiki [0m
+
+[34mqueryFindPositionsOfWordInAPage stack stack_datastructure_wiki: [0m
+[35m1, [0m[35m14, [0m[35m71, [0m[35m130, [0m[35m142, [0m[35m153, [0m[35m170, [0m[35m191, [0m[35m204, [0m[35m208, [0m[35m223, [0m[35m228, [0m[35m256, [0m[35m267, [0m[35m289, [0m[35m294, [0m[35m326, [0m[35m336, [0m[35m350, [0m[35m363, [0m[35m382, [0m[35m395, [0m[35m409, [0m[35m436, [0m[35m441, [0m[35m459 [0m
+
+[34mqueryFindPositionsOfWordInAPage abc stack_cprogramming: [0m
+[31mWebpage [33mstack_cprogramming[31m does not contain word [33mabc[0m
+
+[34maddPage stacklighting: [0m
+[32mPage has been read successfully[0m
+
+[34maddPage stackmagazine: [0m
+[32mPage has been read successfully[0m
+
+[34mqueryFindPagesWhichContainWord magazines: [0m
+[35mstackmagazine [0m
+

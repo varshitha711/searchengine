@@ -1,0 +1,21 @@
+addPage stack_datastructure
+queryFindPagesWhichContainWord delhi
+queryFindPagesWhichContainWord stack
+queryFindPagesWhichContainWord wikipedia
+queryFindPositionsOfWordInAPage stack stack_datastructure_wiki
+queryFindPagesWhichContainWord allain
+addPage stack_cprogramming
+addPage stack_cprogramming
+queryFindPagesWhichContainWord allain
+queryFindPagesWhichContainWord C
+queryFindPagesWhichContainWord C++
+addPage stack_oracle
+queryFindPagesWhichContainWord jdk
+addPage stackoverflow
+addPage stack_datastructure_wiki
+queryFindPagesWhichContainWord function
+queryFindPositionsOfWordInAPage stack stack_datastructure_wiki
+queryFindPositionsOfWordInAPage abc stack_cprogramming
+addPage stacklighting
+addPage stackmagazine
+queryFindPagesWhichContainWord magazines
